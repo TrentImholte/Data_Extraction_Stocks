@@ -1,4 +1,4 @@
 Pyton
 yfinance
-xxx
-xxx
+Streamlit
+Matplot
